@@ -67,10 +67,10 @@
 
 ### ***Wi-Fi***
 > **Security**
->
+> - Wi-Fi security [[Web]](https://tbhaxor.com/offensive-wifi-security/ "Offensive Wi-Fi Security")
 
 > **Exploit**
->
+> - Mind maps & cheatsheets [[Github]](https://github.com/koutto/pi-pwnbox-rogueap "koutto/pi-pwnbox-rogueap") [[Wiki]](https://github.com/koutto/pi-pwnbox-rogueap/wiki "koutto/pi-pwnbox-rogueap")
 
 > **Tools**
 >
@@ -80,10 +80,11 @@
 >
 
 > **Exploit**
->
+> - Bluetooth Attack & Defence [[Github]](https://github.com/Charmve/BLE-Security-Attack-Defence "Charmve/BLE-Security-Attack-Defence")
 
 > **Tools**
->
+> - SweynTooth vulnerabilities [[Web]](https://asset-group.github.io/disclosures/sweyntooth/ "Unleashing Mayhem over Bluetooth Low Energy") [[Github]](https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks "Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks")
+
 
 ### ***NFC***
 > **Security**
@@ -129,13 +130,10 @@
 
 ## ***Programming & CTF***
 ### **Programming**
-> **References**
 > - Competitive programming [[Book's Appendix]](https://github.com/updf83/private-work/blob/main/Intelligence/Collection%20source.md "競技プログラミングの鉄則 ～アルゴリズムと思考力を高める 77 の技術～")
 
 ### ***CTF***
-> **CTF challenges**
 > - CTF [[ImaginaryCTF]](https://imaginaryctf.org "Daily CTF Challenges For Everyone:")
 
 ### **OSINT**
-> **Tools**
-> - Collection [[Github]](https://github.com/cipher387/osint_stuff_tool_collection "cipher387/osint_stuff_tool_collection")
+> - Tool Collection [[Github]](https://github.com/cipher387/osint_stuff_tool_collection "cipher387/osint_stuff_tool_collection")
