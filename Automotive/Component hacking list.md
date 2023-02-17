@@ -2,7 +2,8 @@
 
 ## ***Hardware hacking***
 > - **Side channel & fault injection attack**
->   - **_August, 2018, ""_**. [slide](https://i.blackhat.com/us-18/Wed-August-8/us-18-Milburn-There-Will-Be-Glitches-Extracting-And-Analyzing-Automotive-Firmware-Efficiently.pdf)
+>   - **_August, 2018, "There Will Be Glitches:
+Extracting and Analyzing Automotive Firmware Efficiently"_**. [[slide]](https://i.blackhat.com/us-18/Wed-August-8/us-18-Milburn-There-Will-Be-Glitches-Extracting-And-Analyzing-Automotive-Firmware-Efficiently.pdf)
 
 ## ***Automotive software hacking***
 > - **Linux & Andorid**
