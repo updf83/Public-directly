@@ -26,7 +26,7 @@
 >   - [[HEAVENS]](https://autosec.se/wp-content/uploads/2018/03/HEAVENS_D2_v2.0.pdf "HEAling Vulnerabilities to ENhance Software Security and Safety") [[EVITA]](https://www.evita-project.org/deliverables.html "D2.3 Security requirements for automotive on-board networks based on dark-side scenarios") [[Threat modeling]](https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats) [[TVRA]](https://www.etsi.org/deliver/etsi_ts/102100_102199/10216501/05.02.03_60/ts_10216501v050203p.pdf) [[OCTAVE]](https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=8419 "") 
 
 ### ***Guideline - Hardware***
-> Hardware security
+> **Hardware security**
 
 ### ***Guideline - Software***
 > **Design & coding**
@@ -41,10 +41,12 @@
 > **Design & development**
 > - [[Best practices]](https://afdc.energy.gov/files/u/publication/best_practices_nps_evse_installations.pdf "Best Practices for Electric Vehicle Supply Equipment Installations in the National Parks") 
 
-
 ### ***Others***
-> **Automotive cyber-attack**
-> - [[Attck map]](https://vicone.com/why-vicone/attack-mapping "Attack Mapping Common Threat Techniques Used in Automotive Cyberattacks")
+> **Automotive cyber attack**
+> - [[Attack map]](https://vicone.com/why-vicone/attack-mapping "Attack Mapping Common Threat Techniques Used in Automotive Cyberattacks")
 
 > **Vendor report**
 > - NXP, "Automotive Security: From Standards to Implementation" [[Paper]](https://www.nxp.com/docs/en/white-paper/AUTOSECURITYWP.pdf)
+
+> **Automtive security article**
+> - Ethical hacking [[part 1]](https://securitybyescrypt.com/ethical-automotive-hacking-simplified-part-1-of-2/) [[part 2]](https://securitybyescrypt.com/ethical-automotive-hacking-simplified-part-2/)
