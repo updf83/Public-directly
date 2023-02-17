@@ -7,12 +7,12 @@ Extracting and Analyzing Automotive Firmware Efficiently"_**. [[slide]](https://
 
 ## ***Automotive software hacking***
 > - **Linux & Andorid**
->   - **_Month, Year, ""_**. [article]( "")
+>   - **_Month, Year, ""_**. [[article]]( "")
 
 ## ***Communication hacking***
 > - **Controller Area Network**
->   - **_August, 2013, "How to Hack You Mini Cooper:Reverse Engineering CAN Messages on Passenger Automobiles"_**. [slide](https://pdfs.semanticscholar.org/9f59/33d34f85746f925c6c3583a54530129e3264.pdf)
->   - **_May, 2017, "Hacking the CAN Bus: Basic Manipulation of a Modern Automobile Through CAN Bus Reverse Engineering"_**. [paper](https://www.giac.org/paper/gcia/9927/hacking-bus-basic-manipulation-modern-automobile-bus-reverse-engineering/133228)
+>   - **_August, 2013, "How to Hack You Mini Cooper:Reverse Engineering CAN Messages on Passenger Automobiles"_**. [[slide]](https://pdfs.semanticscholar.org/9f59/33d34f85746f925c6c3583a54530129e3264.pdf)
+>   - **_May, 2017, "Hacking the CAN Bus: Basic Manipulation of a Modern Automobile Through CAN Bus Reverse Engineering"_**. [[paper]](https://www.giac.org/paper/gcia/9927/hacking-bus-basic-manipulation-modern-automobile-bus-reverse-engineering/133228)
 
 
 ## ***Service or Controller***
