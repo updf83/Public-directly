@@ -36,9 +36,10 @@
 
 ### ***Linux***
 > **Security & hardening**
-> 
+> - Linux kernel security [[codeblog]](https://outflux.net/blog/archives/category/kernel/ "codeblog")
 
 > **Exploitation**
+> - Linux kernel [[Github]](https://github.com/xairy/linux-kernel-exploitation "xairy/linux-kernel-exploitation")
 
 
 ### Examples of reverse engineering & Exploit
