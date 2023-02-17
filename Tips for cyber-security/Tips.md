@@ -2,12 +2,12 @@
 
 ***
 ## 1. Core knowledge
-> Basic knowledge
+> **Basic knowledge**
 > - Basic security knowledge
 > - Penetration testing
 >   - Practical Guide To Penetration Testing [[Book]](https://gbhackers.com/wp-content/uploads/2022/08/The-Hacker-Playbook-2_-Practical-Guide-To-Penetration-Testing-PDFDrive-.pdf)
 
-> Vulnerabilities
+> **Vulnerabilities**
 > - Buffer overflow
 > - Use after free
 > - Race condition
