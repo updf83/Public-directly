@@ -80,9 +80,9 @@
 
 > **Exploit**
 > - Bluetooth Attack & Defence [[Github]](https://github.com/Charmve/BLE-Security-Attack-Defence "Charmve/BLE-Security-Attack-Defence")
+> - SweynTooth vulnerabilities [[Web]](https://asset-group.github.io/disclosures/sweyntooth/ "Unleashing Mayhem over Bluetooth Low Energy") [[Github]](https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks "Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks")
 
 > **Tools**
-> - SweynTooth vulnerabilities [[Web]](https://asset-group.github.io/disclosures/sweyntooth/ "Unleashing Mayhem over Bluetooth Low Energy") [[Github]](https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks "Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks")
 
 
 ### ***NFC***
