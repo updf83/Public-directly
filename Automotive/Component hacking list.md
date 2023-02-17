@@ -26,7 +26,10 @@ Extracting and Analyzing Automotive Firmware Efficiently"_**. [[slide]](https://
 >   - **_Month, Year, ""_**. [article]( "")
 
 > - **Infotainment or telematics**
->   - **_March, 2018, "Reverse engineering of Volkswagen car radios"_**. [github](https://github.com/mnaberez/vwradio)
+>   - **_March, 2018, "Reverse engineering of Volkswagen car radios"_**. [[github]](https://github.com/mnaberez/vwradio)
+>   - **_July, 2019, "Common Attacks Against Car Infotainment Systems"_**. [[slide]](https://events19.linuxfoundation.org/wp-content/uploads/2018/07/ALS19-Common-Attacks-Against-Car-Infotainment-Systems.pdf)
+
+
 
 > - **Gateway**
 >   - **_Month, Year, ""_**. [article]( "")
