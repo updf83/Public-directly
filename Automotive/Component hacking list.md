@@ -17,6 +17,9 @@
 > - EV charging
 >   - **_Month, Year, ""_**. [article]( "")
 
+> - Diagnostic
+>   - **_April, 2017, "A Remote Attack on the Bosch Drivelog Connector Dongle"_**. [[blog]](https://argus-sec.com/blog/cyber-security-blog/remote-attack-bosch-drivelog-connector-dongle/)
+
 > - Keyless entry
 >   - **_Month, Year, ""_**. [article]( "")
 
