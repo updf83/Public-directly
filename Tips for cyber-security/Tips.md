@@ -15,7 +15,7 @@
 
 ***
 ## 2. Tips for component security
-### ***Hardware***
+## ***Hardware***
 ### ***Hardware security***
 ### ***Hardware hacking***
 > **JTAG**
@@ -33,7 +33,7 @@
 
 ***
 
-### ***Software***
+## ***Software***
 ### ***Boot***
 > **Security**
 >  
@@ -53,9 +53,12 @@
 ### ***Tools***
 > **Hacking tools**
 > - Debugger
+>   - gef [[Github]](https://github.com/bata24/gef "bata24/gef")
 > - Others
 
-## 2-3. Communication
+***
+
+## ***Communication***
 ### ***Celluar***
 > **Security**
 >
@@ -133,6 +136,10 @@
 > **References**
 > - Competitive programming [[Book's Appendix]](https://github.com/updf83/private-work/blob/main/Intelligence/Collection%20source.md "競技プログラミングの鉄則 ～アルゴリズムと思考力を高める 77 の技術～")
 
-### **CTF**
+### ***CTF***
 > **CTF challenges**
 > - CTF [[ImaginaryCTF]](https://imaginaryctf.org "Daily CTF Challenges For Everyone:")
+
+### **OSINT**
+> **Tools**
+> - Collection [[Github]](https://github.com/cipher387/osint_stuff_tool_collection "cipher387/osint_stuff_tool_collection")
