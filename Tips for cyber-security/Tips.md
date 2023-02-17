@@ -32,18 +32,17 @@
 ## ***Software***
 ### ***Boot***
 > **Security**
->  
-> 
-
-> **Reverse engineering & exploit**
-> [[
+>   
 
 ### ***Linux***
 > **Security & hardening**
 > 
 
-> **Reverse engineering & exploit**
->
+> **Exploitation**
+
+
+### Examples of reverse engineering & Exploit
+> [[Examples]](https://github.com/updf83/Public-directly/blob/main/Tips%20for%20cyber-security/Reverse%20engineering%20and%20exploit.md)
 
 ### ***Tools***
 > **Hacking tools**
