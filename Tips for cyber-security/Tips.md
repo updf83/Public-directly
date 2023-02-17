@@ -19,14 +19,13 @@
 ### ***Hardware security***
 ### ***Hardware hacking***
 > **JTAG**
->
+> - Exploit [[paper]](https://www.researchgate.net/publication/329373688_Exploiting_JTAG_and_its_mitigation_in_IOT_A_survey "Exploiting JTAG and its mitigation in IOT: A survey")
 
 > **UART**
-> 
-
+> - Exploit [[blog]](https://web.archive.org/web/20210116054244/https://techblog.mediaservice.net/2019/03/a-journey-into-iot-hardware-hacking-uart/ "A journey into IoT – Hardware hacking: UART")
 
 > **I2C**
-> 
+> - Exploit [[blog]](https://security.humanativaspa.it/a-journey-into-iot-chip-identification-busside-and-i2c/ "A journey into IoT – Chip identification, BUSSide, and I2C")
 
 ### ***Hardware hacking tools***
 
