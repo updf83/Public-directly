@@ -97,13 +97,14 @@
 
 ### ***USB***
 > **Security**
->
+> - USB Threats & best practices [[paper]](https://honeywellprocess.blob.core.windows.net/public/Marketing/White-Paper-USB-Security-Myths-vs-Reality.pdf "Latest USB Security Threats & Best Practices to Follow")
 
 > **Exploit**
->
+> - USB cyber attack [[paper]](https://www.sciencedirect.com/science/article/pii/S0167404817301578 "USB-based attacks") [[Article]](https://www.bleepingcomputer.com/news/security/heres-a-list-of-29-different-types-of-usb-attacks/ "Here's a List of 29 Different Types of USB Attacks")
 
 > **Tools**
->
+> - USB Fuzzer [[paper]](https://nebelwelt.net/publications/files/20SEC3.pdf "USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation") 
+
 
 ### ***CAN(Contoller Area Network)***
 > **Security**
