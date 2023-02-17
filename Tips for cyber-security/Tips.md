@@ -9,9 +9,6 @@
 
 > **Vulnerabilities**
 > - Buffer overflow
-> - Use after free
-> - Race condition
-
 
 ***
 ## 2. Tips for component security
