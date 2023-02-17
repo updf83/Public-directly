@@ -48,8 +48,7 @@
 
 ### ***Tools***
 > **Hacking tools**
-> - Debugger
->   - gef [[Github]](https://github.com/bata24/gef "bata24/gef")
+> - Debugger [[gef]](https://github.com/bata24/gef "bata24/gef")
 > - Others
 
 ***
