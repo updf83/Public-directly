@@ -59,7 +59,7 @@
 ***
 
 ## ***Communication***
-### ***Celluar***
+### ***Cellular***
 > **Security**
 >
 
