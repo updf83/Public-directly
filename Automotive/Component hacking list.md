@@ -26,7 +26,7 @@ Extracting and Analyzing Automotive Firmware Efficiently"_**. [[slide]](https://
 >   - **_Month, Year, ""_**. [article]( "")
 
 > - **Infotainment or telematics**
->   - **_Month, Year, ""_**. [article]( "")
+>   - **_March, 2018, "Reverse engineering of Volkswagen car radios"_**. [github](https://github.com/mnaberez/vwradio)
 
 > - **Gateway**
 >   - **_Month, Year, ""_**. [article]( "")
