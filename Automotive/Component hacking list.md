@@ -23,7 +23,7 @@ Extracting and Analyzing Automotive Firmware Efficiently"_**. [[slide]](https://
 >   - **_April, 2017, "A Remote Attack on the Bosch Drivelog Connector Dongle"_**. [[blog]](https://argus-sec.com/blog/cyber-security-blog/remote-attack-bosch-drivelog-connector-dongle/)
 
 > - **Keyless entry**
->   - **_Month, Year, ""_**. [article]( "")
+>   - **_August, 2017, "Car hacking tutorial: Replay attack /w SDR"_**. [blog](https://ivanorsolic.github.io/post/car-hacking/)
 
 > - **Infotainment or telematics**
 >   - **_March, 2018, "Reverse engineering of Volkswagen car radios"_**. [[github]](https://github.com/mnaberez/vwradio)
