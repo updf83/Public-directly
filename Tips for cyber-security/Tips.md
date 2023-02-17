@@ -36,8 +36,7 @@
 > 
 
 > **Reverse engineering & exploit**
->  
-> 
+> [[
 
 ### ***Linux***
 > **Security & hardening**
