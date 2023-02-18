@@ -2,10 +2,11 @@
 
 ***
 ## 1. Core knowledge
-> **Basic knowledge**
-> - Basic security knowledge
-> - Penetration testing
->   - Practical Guide To Penetration Testing [[Book]](https://gbhackers.com/wp-content/uploads/2022/08/The-Hacker-Playbook-2_-Practical-Guide-To-Penetration-Testing-PDFDrive-.pdf)
+> **Basic security knowledge**
+> - Embeded systems security and Trust Zone [[book]](https://embeddedsecurity.io/introduction)
+>  
+> **Penetration testing**
+> - Practical Guide To Penetration Testing [[Book]](https://gbhackers.com/wp-content/uploads/2022/08/The-Hacker-Playbook-2_-Practical-Guide-To-Penetration-Testing-PDFDrive-.pdf)
 
 > **Vulnerabilities**
 > - Buffer overflow
