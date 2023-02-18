@@ -36,7 +36,7 @@
 
 ### ***Linux***
 > **Security & hardening**
-Introduction to Linux security [[blog #2]](https://sergioprado.blog/introduction-embedded-linux-security-part-2/)
+Introduction to Linux security [[blog #1]](https://sergioprado.blog/introduction-embedded-linux-security-part-1/) [[blog #2]](https://sergioprado.blog/introduction-embedded-linux-security-part-2/)
 > - Linux kernel security [[codeblog]](https://outflux.net/blog/archives/category/kernel/ "codeblog") [[Programming guide]](https://sysprog21.github.io/lkmpg/)
 > - Anti-debugging & anti-analysis [[github:Rust lib]](https://github.com/0xor0ne/debugoff)
 > - Learning Linux internals & reverse engineering [[github]](https://github.com/michalmalik/linux-re-101 "A collection of resources for linux reverse engineering")
