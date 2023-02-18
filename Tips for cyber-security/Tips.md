@@ -39,10 +39,11 @@
 > - Linux kernel security [[codeblog]](https://outflux.net/blog/archives/category/kernel/ "codeblog") [Programming guide]](https://sysprog21.github.io/lkmpg/)
 > - Anti-debugging & anti-analysis [[github:Rust lib]](https://github.com/0xor0ne/debugoff)
 > - Learning Linux internals & reverse engineering [[github]](https://github.com/michalmalik/linux-re-101 "A collection of resources for linux reverse engineering")
-
+> - Linux debugging & tracing [[traning]](https://bootlin.com/doc/training/debugging/debugging-slides.pdf)
 
 > **Exploitation**
-> - Linux kernel [[Github]](https://github.com/xairy/linux-kernel-exploitation "xairy/linux-kernel-exploitation")
+> - Linux kernel #1 [[Github]](https://github.com/xairy/linux-kernel-exploitation "xairy/linux-kernel-exploitation") 
+> - Linux kernel #2 [[debug]](https://blog.k3170makan.com/2020/11/linux-kernel-exploitation-0x0-debugging.html?m=1) [[stack overflow]](http://blog.k3170makan.com/2020/11/linux-kernel-exploitation-0x1-smashing.html?m=1) [[privilage escalatoon]](https://blog.k3170makan.com/2021/01/linux-kernel-exploitation-0x2.html?m=1)
 
 
 ### Examples of reverse engineering & Exploit
