@@ -36,7 +36,7 @@
 
 ### ***Linux***
 > **Security & hardening**
-> - Linux kernel security [[codeblog]](https://outflux.net/blog/archives/category/kernel/ "codeblog") [Programming guide]](https://sysprog21.github.io/lkmpg/)
+> - Linux kernel security [[codeblog]](https://outflux.net/blog/archives/category/kernel/ "codeblog") [[Programming guide]](https://sysprog21.github.io/lkmpg/)
 > - Anti-debugging & anti-analysis [[github:Rust lib]](https://github.com/0xor0ne/debugoff)
 > - Learning Linux internals & reverse engineering [[github]](https://github.com/michalmalik/linux-re-101 "A collection of resources for linux reverse engineering")
 > - Linux debugging & tracing [[traning]](https://bootlin.com/doc/training/debugging/debugging-slides.pdf)
