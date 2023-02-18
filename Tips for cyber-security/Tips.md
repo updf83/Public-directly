@@ -52,7 +52,7 @@
 ### ***Tools***
 > **Hacking tools**
 > - Debugger [[gef]](https://github.com/bata24/gef "bata24/gef")
-> - Others
+> - Reversing [[frida-Ghidra]](https://security.humanativaspa.it/ghidra2frida-the-new-bridge-between-ghidra-and-frida/)
 
 ***
 
