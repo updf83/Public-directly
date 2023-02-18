@@ -37,7 +37,8 @@
 ### ***Linux***
 > **Security & hardening**
 > - Linux kernel security [[codeblog]](https://outflux.net/blog/archives/category/kernel/ "codeblog")
-> - anti-debugging and anti-analysis [[github:Rust lib]](https://github.com/0xor0ne/debugoff)
+> - Anti-debugging & anti-analysis [[github:Rust lib]](https://github.com/0xor0ne/debugoff)
+> - Learning Linux internals & reverse engineering [[github]](https://github.com/michalmalik/linux-re-101 "A collection of resources for linux reverse engineering")
 
 > **Exploitation**
 > - Linux kernel [[Github]](https://github.com/xairy/linux-kernel-exploitation "xairy/linux-kernel-exploitation")
