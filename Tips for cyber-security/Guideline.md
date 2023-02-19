@@ -10,3 +10,4 @@
 ## Technical paper and articles
 > **Hardware security**
 > - The CWE Most Important Hardware Weaknesses[[MITRE]](https://cwe.mitre.org/scoring/lists/2021_CWE_MIHW.html)
+> - [[ENISA Hardware thread and good practicies]](https://www.enisa.europa.eu/publications/hardware-threat-landscape/@@download/fullReport "Hardware Threat Landscape and Good Practice Guide")
