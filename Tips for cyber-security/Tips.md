@@ -24,11 +24,11 @@
 
 > **UART** 
 > - [[UART hacking]](https://web.archive.org/web/20210116054244/https://techblog.mediaservice.net/2019/03/a-journey-into-iot-hardware-hacking-uart/ "A journey into IoT – Hardware hacking: UART") 
-> - Practical Reverse Engineering [[1]](https://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/)
+> - Practical Reverse Engineering [[1]](https://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/)  [[2]](https://jcjc-dev.com/2016/04/29/reversing-huawei-router-2-scouting-firmware/) [[3]](https://jcjc-dev.com/2016/05/23/reversing-huawei-3-sniffing/) [[4]](https://jcjc-dev.com/2016/06/08/reversing-huawei-4-dumping-flash/) [[5]](https://jcjc-dev.com/2016/12/14/reversing-huawei-5-reversing-firmware/)
 
 > **I2C** [[blog]](https://security.humanativaspa.it/a-journey-into-iot-chip-identification-busside-and-i2c/ "A journey into IoT – Chip identification, BUSSide, and I2C")
 
-> **SPI** [[blog]](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html?m=1) [[2]](https://jcjc-dev.com/2016/04/29/reversing-huawei-router-2-scouting-firmware/) [[3]](https://jcjc-dev.com/2016/05/23/reversing-huawei-3-sniffing/) [[4]](https://jcjc-dev.com/2016/06/08/reversing-huawei-4-dumping-flash/) [[5]](https://jcjc-dev.com/2016/12/14/reversing-huawei-5-reversing-firmware/)
+> **SPI** [[blog]](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html?m=1)
 ### ***Hardware hacking tools***
 
 
