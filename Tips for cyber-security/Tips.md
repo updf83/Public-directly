@@ -24,6 +24,7 @@
 
 > **I2C** [[blog]](https://security.humanativaspa.it/a-journey-into-iot-chip-identification-busside-and-i2c/ "A journey into IoT – Chip identification, BUSSide, and I2C")
 
+> **SPI** [[blog]](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html?m=1)
 ### ***Hardware hacking tools***
 
 
