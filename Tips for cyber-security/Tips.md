@@ -5,6 +5,8 @@
 > **Basic security knowledge**
 > - Embeded systems security and Trust Zone [[book]](https://embeddedsecurity.io/introduction)
 > - Introduction to ARM Trusted Execution Environment [[blog]](https://sergioprado.blog/introduction-to-trusted-execution-environment-tee-arm-trustzone/)
+> - Memory protection [[report]](https://cyber-itl.org/2019/08/26/iot-data-writeup.html)
+
 > **Penetration testing**
 > - Practical Guide To Penetration Testing [[Book]](https://gbhackers.com/wp-content/uploads/2022/08/The-Hacker-Playbook-2_-Practical-Guide-To-Penetration-Testing-PDFDrive-.pdf)
 
