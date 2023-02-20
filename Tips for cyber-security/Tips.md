@@ -23,7 +23,7 @@
 > **JTAG** [[paper]](https://www.researchgate.net/publication/329373688_Exploiting_JTAG_and_its_mitigation_in_IOT_A_survey "Exploiting JTAG and its mitigation in IOT: A survey")
 
 > **UART** 
-> - [[UART hacking]](https://web.archive.org/web/20210116054244/https://techblog.mediaservice.net/2019/03/a-journey-into-iot-hardware-hacking-uart/ "A journey into IoT – Hardware hacking: UART") 
+> - UART hacking [[tech blog]](https://web.archive.org/web/20210116054244/https://techblog.mediaservice.net/2019/03/a-journey-into-iot-hardware-hacking-uart/ "A journey into IoT – Hardware hacking: UART")  [[UART hacking via Uboot]](https://voidstarsec.com/blog/uart-uboot-and-usb)
 > - Practical Reverse Engineering [[1]](https://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/)  [[2]](https://jcjc-dev.com/2016/04/29/reversing-huawei-router-2-scouting-firmware/) [[3]](https://jcjc-dev.com/2016/05/23/reversing-huawei-3-sniffing/) [[4]](https://jcjc-dev.com/2016/06/08/reversing-huawei-4-dumping-flash/) [[5]](https://jcjc-dev.com/2016/12/14/reversing-huawei-5-reversing-firmware/)
 
 > **I2C** [[blog]](https://security.humanativaspa.it/a-journey-into-iot-chip-identification-busside-and-i2c/ "A journey into IoT – Chip identification, BUSSide, and I2C")
