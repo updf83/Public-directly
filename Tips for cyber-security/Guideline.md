@@ -14,5 +14,6 @@
 
 ## Others
 > **Linux security**
+> - Linux : [[Advisories]](https://linuxsecurity.com/advisories#)
 > - SUSE Linux Enterprise Setver : Security and Hardening Guide [[15 sp1]](https://documentation.suse.com/sles/15-SP1/pdf/book-security_color_en.pdf)
 > - Ubuntu : [[Security features]](https://wiki.ubuntu.com/Security/Features?_ga=2.247209476.1673588214.1676941912-1818781704.1676941912) [[Notices]](https://ubuntu.com/security/notices)
