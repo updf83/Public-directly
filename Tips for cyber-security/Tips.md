@@ -6,6 +6,7 @@
 > - Embeded systems security and Trust Zone [[book]](https://embeddedsecurity.io/introduction)
 > - Introduction to Trusted Execution Environment [[blog]](https://sergioprado.blog/introduction-to-trusted-execution-environment-tee-arm-trustzone/) [[blog]](https://www.riscure.com/tee-security-samsung-teegris-part-1/) [[arch]](https://globalplatform.org/wp-content/uploads/2017/01/GPD_TEE_SystemArch_v1.2_PublicRelease.pdf) [[i.MX]](https://www.timesys.com/webinars/Secure-by-Design-NXP-Webinar-Series-OP-TEE.pdf)
 > - Memory protection [[report]](https://cyber-itl.org/2019/08/26/iot-data-writeup.html)
+> - IoT hacking [[blog #1]](https://delinea.com/blog/guide-to-iot-security-risks-and-challenges-part-1) [[blog #2]](https://delinea.com/blog/guide-to-iot-security-risks-and-challenges-part-2)
 
 > **Penetration testing**
 > - Practical Guide To Penetration Testing [[Book]](https://gbhackers.com/wp-content/uploads/2022/08/The-Hacker-Playbook-2_-Practical-Guide-To-Penetration-Testing-PDFDrive-.pdf)
@@ -92,7 +93,7 @@ Introduction to Linux security [[blog #1]](https://sergioprado.blog/introduction
 >
 
 > **Exploit**
-> - Bluetooth Attack & Defence [[Github]](https://github.com/Charmve/BLE-Security-Attack-Defence "Charmve/BLE-Security-Attack-Defence")
+> - Bluetooth Attack & Defence [[Github]](https://github.com/Charmve/BLE-Security-Attack-Defence "Charmve/BLE-Security-Attack-Defence") [[blog]](https://www.hackers-arise.com/amp/bluetooth-hacking-part-1-getting-started-with-bluetooth)
 > - SweynTooth vulnerabilities [[Web]](https://asset-group.github.io/disclosures/sweyntooth/ "Unleashing Mayhem over Bluetooth Low Energy") [[Github]](https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks "Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks")
 
 > **Tools**
