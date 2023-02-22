@@ -4,7 +4,7 @@
 ## 1. Core knowledge
 > **Basic security knowledge**
 > - Embeded systems security and Trust Zone [[book]](https://embeddedsecurity.io/introduction)
-> - Introduction to Trusted Execution Environment [[blog]](https://sergioprado.blog/introduction-to-trusted-execution-environment-tee-arm-trustzone/) [[blog]](https://www.riscure.com/tee-security-samsung-teegris-part-1/) [[arch]](https://globalplatform.org/wp-content/uploads/2017/01/GPD_TEE_SystemArch_v1.2_PublicRelease.pdf)
+> - Introduction to Trusted Execution Environment [[blog]](https://sergioprado.blog/introduction-to-trusted-execution-environment-tee-arm-trustzone/) [[blog]](https://www.riscure.com/tee-security-samsung-teegris-part-1/) [[arch]](https://globalplatform.org/wp-content/uploads/2017/01/GPD_TEE_SystemArch_v1.2_PublicRelease.pdf) [[i.MX]](https://www.timesys.com/webinars/Secure-by-Design-NXP-Webinar-Series-OP-TEE.pdf)
 > - Memory protection [[report]](https://cyber-itl.org/2019/08/26/iot-data-writeup.html)
 
 > **Penetration testing**
