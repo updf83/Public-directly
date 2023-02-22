@@ -4,7 +4,7 @@
 ## 1. Core knowledge
 > **Basic security knowledge**
 > - Embeded systems security and Trust Zone [[book]](https://embeddedsecurity.io/introduction)
-> - Introduction to ARM Trusted Execution Environment [[blog]](https://sergioprado.blog/introduction-to-trusted-execution-environment-tee-arm-trustzone/)
+> - Introduction to Trusted Execution Environment [[blog]](https://sergioprado.blog/introduction-to-trusted-execution-environment-tee-arm-trustzone/) [[blog]](https://www.riscure.com/tee-security-samsung-teegris-part-1/)
 > - Memory protection [[report]](https://cyber-itl.org/2019/08/26/iot-data-writeup.html)
 
 > **Penetration testing**
