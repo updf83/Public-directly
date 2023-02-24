@@ -24,3 +24,5 @@
 > **Vendor report**
 > - Qualcomm : [[
 Guard Your Data with the Qualcomm® Snapdragon™ Mobile Platform]](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/guard_your_data_with_the_qualcomm_snapdragon_mobile_platform2.pdf)
+
+> - Google : [[Android Security Bulletin]](https://source.android.com/docs/security/bulletin?hl=en)
