@@ -3,14 +3,14 @@
 
 
 ## ***Guidelines***
+> **MITRE ATT&CK**
+> - [Best Practices for MITRE ATT&CK® Mapping](https://www.cisa.gov/sites/default/files/publications/Best%20Practices%20for%20MITRE%20ATTCK%20Mapping.pdf)
+
 > **Embedded systems**
 > - [Embedded Application Security Best Practices](https://scriptingxss.gitbook.io/embedded-appsec-best-practices/)
 
 
 ## Technical papers and articles
-> **Best practices**
-> - [[Best Practices for MITRE ATT&CK® Mapping]](https://www.cisa.gov/sites/default/files/publications/Best%20Practices%20for%20MITRE%20ATTCK%20Mapping.pdf)
-
 > **Hardware security**
 > - The CWE Most Important Hardware Weaknesses[[MITRE]](https://cwe.mitre.org/scoring/lists/2021_CWE_MIHW.html)
 > - Hardware threat and good practicies [[ENISA]](https://www.enisa.europa.eu/publications/hardware-threat-landscape/@@download/fullReport "Hardware Threat Landscape and Good Practice Guide")
