@@ -9,6 +9,9 @@ Extracting and Analyzing Automotive Firmware Efficiently"_**. [[slide]](https://
 > - **Linux & Andorid**
 >   - **_Month, Year, ""_**. [[article]]( "")
 
+> - **AUTOSAR**
+>   - **_January, 2022, "Memory Corruption Vulnerabilities in COVESA DLT daemon"._** [[blog]](https://sec-consult.com/vulnerability-lab/advisory/multiple-memory-corruption-vulnerabilities-in-covesa-dlt-daemon/)
+
 ## ***Communication hacking***
 > - **Controller Area Network**
 >   - **_August, 2013, "How to Hack Your Mini Cooper:Reverse Engineering CAN Messages on Passenger Automobiles"_**. [[slide]](https://pdfs.semanticscholar.org/9f59/33d34f85746f925c6c3583a54530129e3264.pdf)
