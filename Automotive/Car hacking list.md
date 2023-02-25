@@ -30,4 +30,5 @@
 > - **_Month, "Title", Vendor._** [[article]]( "")
 
 > ***2023***
-> - **_Month, "Title", Vendor._** [[article]]( "")
+> - **_Month, "Kia challenge (Car theft)", Hyundai Motor & Kia._** [[article]]( "")
+>    - [[NHTSA]](https://www.nhtsa.gov/press-releases/hyundai-kia-campaign-prevent-vehicle-theft)
