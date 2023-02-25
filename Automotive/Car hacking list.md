@@ -30,4 +30,4 @@
 > - **_Month, "Title", Vendor._** [[article]]( "")
 
 > ***2023***
-> - **_Month, "Kia challenge (Car theft)", Hyundai Motor & Kia._** [[NHTSA]](https://www.nhtsa.gov/press-releases/hyundai-kia-campaign-prevent-vehicle-theft) [[Hundai]](https://www.hyundainews.com/en-us/releases/3768?uuid=lSsVufn8jKhEaxLg2980)
+> - **_Month, "Kia challenge (Car theft)", Hyundai Motor & Kia._** [[NHTSA]](https://www.nhtsa.gov/press-releases/hyundai-kia-campaign-prevent-vehicle-theft) [[Hyundai]](https://www.hyundainews.com/en-us/releases/3768?uuid=lSsVufn8jKhEaxLg2980)
