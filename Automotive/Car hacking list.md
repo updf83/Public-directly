@@ -27,9 +27,10 @@
 > - **_Month, "Title", Vendor._** [[article]]( "")
 
 > ***2022***
-> - **_May, "Hyundai's IVI hacking", Hyundai._** [[blog 1]](https://programmingwithstyle.com/posts/howihackedmycar/ "How I Hacked my Car") [[blog 2]](https://programmingwithstyle.com/posts/howihackedmycarpart2/) [[
+> - **_May, "Hyundai's IVI hacking", Hyundai Motor._** [[blog 1]](https://programmingwithstyle.com/posts/howihackedmycar/ "How I Hacked my Car") [[blog 2]](https://programmingwithstyle.com/posts/howihackedmycarpart2/) [[
 blog 3]](https://programmingwithstyle.com/posts/howihackedmycarpart3/) [[blog]](https://programmingwithstyle.com/posts/howihackedmycarguidescreatingcustomfirmware/)
 
+> - **_Octorber, "Kia challenge (Car theft)", Hyundai Motor & Kia._** [[Wiki]](https://en.m.wikipedia.org/wiki/Kia_Challenge) [[NHTSA]](https://www.nhtsa.gov/press-releases/hyundai-kia-campaign-prevent-vehicle-theft) [[Hyundai]](https://www.hyundainews.com/en-us/releases/3768?uuid=lSsVufn8jKhEaxLg2980)
 
 > ***2023***
-> - **_Octorber, "Kia challenge (Car theft)", Hyundai Motor & Kia._** [[Wiki]](https://en.m.wikipedia.org/wiki/Kia_Challenge) [[NHTSA]](https://www.nhtsa.gov/press-releases/hyundai-kia-campaign-prevent-vehicle-theft) [[Hyundai]](https://www.hyundainews.com/en-us/releases/3768?uuid=lSsVufn8jKhEaxLg2980)
+> - **_January, "Hyundai's head unit hacking", Hyundai Motor._** [[blog]](https://xakcop.com/post/hyundai-hack-2/)
