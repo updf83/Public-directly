@@ -34,3 +34,4 @@ blog 3]](https://programmingwithstyle.com/posts/howihackedmycarpart3/) [[blog]](
 
 > ***2023***
 > - **_January, "Hyundai's head unit hacking", Hyundai Motor._** [[blog]](https://xakcop.com/post/hyundai-hack-2/)
+> - **_January, "Web-related vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and more were reported"._** [[blog]](https://samcurry.net/web-hackers-vs-the-auto-industry/)
