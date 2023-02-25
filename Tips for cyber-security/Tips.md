@@ -34,6 +34,8 @@
 > **IC decapsulation**
 > - [[Decapsulate Integrated Circuits using Acid Deposition]](https://jcjc-dev.com/2020/10/20/learning-to-decap-ics/)
 
+> **Side channel**
+>- [[Arm Coretex A-50, A-70]](https://eshard.com/posts/sca-attacks-on-armv8)
 ### ***Hardware hacking tools***
 
 
