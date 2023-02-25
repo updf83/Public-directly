@@ -27,7 +27,7 @@
 > - **_Month, "Title", Vendor._** [[article]]( "")
 
 > ***2022***
-> - **_May, "Title", Hyundai._** [[blog 1]](https://programmingwithstyle.com/posts/howihackedmycar/ "How I Hacked my Car") [[blog 2]](https://programmingwithstyle.com/posts/howihackedmycarpart2/)
+> - **_May, "Title", Hyundai._** [[blog 1]](https://programmingwithstyle.com/posts/howihackedmycar/ "How I Hacked my Car") [[blog 2]](https://programmingwithstyle.com/posts/howihackedmycarpart2/) [[blog 3]](https://programmingwithstyle.com/posts/howihackedmycarguidescreatingcustomfirmware/)
 
 
 > ***2023***
