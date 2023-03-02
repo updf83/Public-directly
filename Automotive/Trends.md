@@ -30,12 +30,17 @@
 
 ### ***Guideline - Software***
 > **Design & coding**
+>
+
 > **Software testing**
 >   - [[OWASP Firmware security testing methodology]](https://github.com/scriptingxss/owasp-fstm "OWASP Firmware Security Testing Methodology")
 
 ### ***Guideline - Communication***
 > **Design & development**
+>
+
 > **Communication testing**
+
 
 ### ***Guideline - EV chraging***
 > **Design & development**
